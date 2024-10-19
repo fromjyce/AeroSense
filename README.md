@@ -34,11 +34,11 @@ Weather conditions are seamlessly integrated into the dashboard, providing users
 ### **Lightweight LSTM Neural Network for Air Quality Prediction**
 AeroSense utilizes **Lightweight Long Short-Term Memory (LSTM) Neural Networks** for time-series forecasting of air quality. This model is optimized to:
 
-•Predict future AQI values with minimal computational resources by efficiently analyzing historical pollutant data.
+- Predict future AQI values with minimal computational resources by efficiently analyzing historical pollutant data.
 
-•Process data from various air quality stations, including PM2.5, NO2, CO, SO2, O3, and other key pollutants.
+- Process data from various air quality stations, including PM2.5, NO2, CO, SO2, O3, and other key pollutants.
  
-•Leverage temporal features like date, time, and seasonality, while maintaining fast and accurate predictions on low-power devices.
+- Leverage temporal features like date, time, and seasonality, while maintaining fast and accurate predictions on low-power devices.
 
 ## **Technology Stack**
 
