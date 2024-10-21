@@ -1,11 +1,11 @@
 # **AeroSense: AI-Driven Air Quality Prediction and Forecasting**
 
-The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring, and simulation of Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into both current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
+The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring, and simulation of the Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
 
 ## **Key Features**
 
 ### **AQI Prediction**
-AeroSense allows users to predict air quality with precision across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
+AeroSense allows users to predict air quality precisely across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
 
 - Select a city or monitoring station.
 - Specify a future date and time for prediction.
@@ -14,7 +14,7 @@ AeroSense allows users to predict air quality with precision across any city or 
 ### **Real-time AQI Monitoring**
 Access live AQI data for **12 major metro cities** in India, along with a nationwide overview. The intuitive dashboard enables users to:
 
-- Track current AQI levels in real time.
+- Track current AQI levels in real-time.
 - Compare air quality across different cities.
 - Obtain an at-a-glance summary of the nation’s overall air quality.
 
