@@ -1,6 +1,6 @@
 # **AeroSense: AI-Driven Air Quality Prediction and Forecasting**
 
-The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring, and simulation of the Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
+The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring of the Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
 
 ## **Key Features**
 
@@ -53,8 +53,8 @@ AeroSense utilizes **Lightweight Long Short-Term Memory (LSTM) Neural Networks**
 1. **Data Collection:** Real-time AQI and weather data are continuously fetched from monitoring stations and external APIs.
 2. **Data Preprocessing:** The raw data is processed, including **feature scaling** and **sequence creation**, to prepare it for prediction.
 3. **Prediction Engine:** Using **LSTM models**, future pollutant concentrations are forecasted, and AQI values are computed.
-4. **Interactive User Interface:** Users can explore predictions through an intuitive interface, selecting cities, dates, and simulation variables.
-5. **Simulation & Insights:** Input environmental factors such as temperature and vehicular traffic, and visualize their real-time effect on future AQI.
+4. **Interactive User Interface:** Users can explore predictions through an intuitive interface, selecting cities, and dates.
+5. **Insights:** Input environmental factors such as temperature and vehicular traffic, and visualize their real-time effect on future AQI.
 
 ## **Future Enhancements**
 
