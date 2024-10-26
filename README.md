@@ -1,13 +1,13 @@
 # **AeroSense: AI-Driven Air Quality Prediction and Forecasting**
 
 The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring of the Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
-![image](https://github.com/user-attachments/assets/bbf02f3a-d30c-4151-81ec-63a08b4c5639)
+![image](https://github.com/user-attachments/assets/4506c0b5-c80e-4731-aebf-13ae35dbad45)
 
 ## **Key Features**
 
 ### **AQI Prediction**
+![image](https://github.com/user-attachments/assets/9e3e1e2d-6ec4-437e-9b27-9e3a1ba49ec1)
 AeroSense allows users to predict air quality precisely across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
-![image](https://github.com/user-attachments/assets/45fe5de2-f334-4cb0-90e0-07d0af1efd4b)
 
 - Select a city or monitoring station.
 - Specify a future date and time for prediction.
@@ -26,10 +26,10 @@ Analyze AQI trends with predictions covering **four days prior** and **four days
 - Reviewing historical air quality data.
 - Exploring future AQI trends.
 - Making informed decisions based on forecasted air quality conditions.
-![Uploading image.png…]()
 
 ### **Weather Integration**
 Weather conditions are seamlessly integrated into the dashboard, providing users with up-to-date information on:
+![image](https://github.com/user-attachments/assets/98d6a5a5-5f60-4219-9507-6b96b324b637)
 
 - Current **temperature, humidity, precipitation, and wind speed**.
 - **5-day weather forecast**, helping users plan ahead based on both weather and air quality predictions.
