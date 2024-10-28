@@ -1,13 +1,14 @@
 # **AeroSense: AI-Driven Air Quality Prediction and Forecasting**
 
-The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring of the Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
-![image](https://github.com/user-attachments/assets/4506c0b5-c80e-4731-aebf-13ae35dbad45)
+The **AeroSense** web application is an advanced tool designed for real-time prediction, monitoring, and simulation of Air Quality Index (AQI) across major cities and stations in India. Utilizing cutting-edge machine learning models, deep learning techniques, and time-series forecasting, AeroSense offers users comprehensive insights into both current and future air quality, empowering individuals and policymakers to make data-driven decisions regarding environmental health.
 
 ## **Key Features**
 
 ### **AQI Prediction**
-![image](https://github.com/user-attachments/assets/9e3e1e2d-6ec4-437e-9b27-9e3a1ba49ec1)
-AeroSense allows users to predict air quality precisely across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
+![results](https://github.com/user-attachments/assets/9199b158-7962-456d-9eb7-a0b4afed1f0b)
+
+
+AeroSense allows users to predict air quality with precision across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
 
 - Select a city or monitoring station.
 - Specify a future date and time for prediction.
@@ -16,7 +17,7 @@ AeroSense allows users to predict air quality precisely across any city or stati
 ### **Real-time AQI Monitoring**
 Access live AQI data for **12 major metro cities** in India, along with a nationwide overview. The intuitive dashboard enables users to:
 
-- Track current AQI levels in real-time.
+- Track current AQI levels in real time.
 - Compare air quality across different cities.
 - Obtain an at-a-glance summary of the nation’s overall air quality.
 
@@ -27,21 +28,39 @@ Analyze AQI trends with predictions covering **four days prior** and **four days
 - Exploring future AQI trends.
 - Making informed decisions based on forecasted air quality conditions.
 
+### **AR AQI Simulator**
+
+![simulator](https://github.com/user-attachments/assets/4cd7a95e-ded2-482a-b137-b68622efcef4)
+
+
+AeroSense allows users to simulate future AQI outcomes by adjusting various environmental parameters. Inputs such as **wind speed, sunlight, temperature, precipitation, vehicular traffic, electric vehicle usage, and industrial activity** can be dynamically modified to visualize their potential impact on air quality, offering a clearer understanding of the factors influencing pollution levels.
+
 ### **Weather Integration**
 Weather conditions are seamlessly integrated into the dashboard, providing users with up-to-date information on:
-![image](https://github.com/user-attachments/assets/98d6a5a5-5f60-4219-9507-6b96b324b637)
 
 - Current **temperature, humidity, precipitation, and wind speed**.
 - **5-day weather forecast**, helping users plan ahead based on both weather and air quality predictions.
 
+### **AI-Driven Insights and Recommendations**
+![image_results](https://github.com/user-attachments/assets/b0610f1c-d78e-4636-b410-c603acad0e1a)
+
+The AI tool within AeroSense leverages **Large Language Models (LLMs)** to provide tailored insights and actionable recommendations based on AQI forecasts. Users can receive advice on:
+
+- Environmental policies and their implications.
+- Health risks associated with varying AQI levels.
+- Strategies to mitigate pollution, including the promotion of electric vehicles and afforestation efforts.
+  
+
+
+
 ### **Lightweight LSTM Neural Network for Air Quality Prediction**
 AeroSense utilizes **Lightweight Long Short-Term Memory (LSTM) Neural Networks** for time-series forecasting of air quality. This model is optimized to:
 
-- Predict future AQI values with minimal computational resources by efficiently analyzing historical pollutant data.
+•Predict future AQI values with minimal computational resources by efficiently analyzing historical pollutant data.
 
-- Process data from various air quality stations, including PM2.5, NO2, CO, SO2, O3, and other key pollutants.
+•Process data from various air quality stations, including PM2.5, NO2, CO, SO2, O3, and other key pollutants.
  
-- Leverage temporal features like date, time, and seasonality, while maintaining fast and accurate predictions on low-power devices.
+•Leverage temporal features like date, time, and seasonality, while maintaining fast and accurate predictions on low-power devices.
 
 ## **Technology Stack**
 
@@ -56,8 +75,35 @@ AeroSense utilizes **Lightweight Long Short-Term Memory (LSTM) Neural Networks**
 1. **Data Collection:** Real-time AQI and weather data are continuously fetched from monitoring stations and external APIs.
 2. **Data Preprocessing:** The raw data is processed, including **feature scaling** and **sequence creation**, to prepare it for prediction.
 3. **Prediction Engine:** Using **LSTM models**, future pollutant concentrations are forecasted, and AQI values are computed.
-4. **Interactive User Interface:** Users can explore predictions through an intuitive interface, selecting cities, and dates.
-5. **Insights:** Input environmental factors such as temperature and vehicular traffic, and visualize their real-time effect on future AQI.
+4. **Interactive User Interface:** Users can explore predictions through an intuitive interface, selecting cities, dates, and simulation variables.
+5. **Simulation & Insights:** Input environmental factors such as temperature and vehicular traffic, and visualize their real-time effect on future AQI.
+
+## **Getting Started**
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/fromjyce/AeroSense.git aerosense
+   cd aerosense
+   ```
+
+2. **Install Dependencies**
+   Ensure you have Python and Node.js installed.
+   ```bash
+   cd backend && pip install -r requirements.txt
+   cd frontend && npm install
+   ```
+
+3. **Run the Application**
+   ```bash
+   # Start the backend
+   cd backend && python manage.py runserver
+
+   # Start the frontend
+   cd frontend && npm run dev
+   ```
+
+4. **Access the Dashboard**
+   Open your browser and navigate to `http://localhost:3000` to interact with the application.
 
 ## **Future Enhancements**
 

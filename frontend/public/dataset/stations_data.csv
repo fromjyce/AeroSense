@@ -1,0 +1,231 @@
+State,City,StationName,StationId,Status,Latitude,Longitude
+Andhra Pradesh,Amaravati,"Secretariat - APPCB",AP001,Active,16.34,80.21
+Andhra Pradesh,Rajamahendravaram,"Anand Kala Kshetram - APPCB",AP002,Inactive,,
+Andhra Pradesh,Tirupati,"Tirumala - APPCB",AP003,Inactive,,
+Andhra Pradesh,Vijayawada,"PWD Grounds - APPCB",AP004,Inactive,,
+Andhra Pradesh,Visakhapatnam,"GVM Corporation - APPCB",AP005,Active,17.686815,83.218483
+Assam,Guwahati,"Railway Colony - APCB",AS001,Active,26.115103,91.703239
+Bihar,Gaya,"Collectorate - BSPCB",BR001,Inactive,,
+Bihar,Gaya,"SFTI Kusdihra - BSPCB",BR002,Inactive,,
+Bihar,Hajipur,"Industrial Area - BSPCB",BR003,Inactive,,
+Bihar,Muzaffarpur,"Muzaffarpur Collectorate - BSPCB",BR004,Inactive,,
+Bihar,Patna,"DRM Office Danapur - BSPCB",BR005,Active,25.612677,85.158875
+Bihar,Patna,"Govt. High School Shikarpur - BSPCB",BR006,Active,25.612677,85.158875
+Bihar,Patna,"IGSC Planetarium Complex - BSPCB",BR007,Active,25.612677,85.158875
+Bihar,Patna,"Muradpur - BSPCB",BR008,Active,25.612677,85.158875
+Bihar,Patna,"Rajbansi Nagar - BSPCB",BR009,Active,25.612677,85.158875
+Bihar,Patna,"Samanpura - BSPCB",BR010,Active,25.612677,85.158875
+Chandigarh,Chandigarh,"Sector-25 - CPCC",CH001,Active,30.44,76.47
+Delhi,Delhi,"Alipur - DPCC",DL001,Active,28.6448,77.216721
+Delhi,Delhi,"Anand Vihar - DPCC",DL002,Active,28.6448,77.216721
+Delhi,Delhi,"Ashok Vihar - DPCC",DL003,Active,28.6448,77.216721
+Delhi,Delhi,"Aya Nagar - IMD",DL004,Active,28.6448,77.216721
+Delhi,Delhi,"Bawana - DPCC",DL005,Active,28.6448,77.216721
+Delhi,Delhi,"Burari Crossing - IMD",DL006,Inactive,,
+Delhi,Delhi,"CRRI Mathura Road - IMD",DL007,Active,28.6448,77.216721
+Delhi,Delhi,"DTU - CPCB",DL008,Active,28.6448,77.216721
+Delhi,Delhi,"Dr. Karni Singh Shooting Range - DPCC",DL009,Active,28.6448,77.216721
+Delhi,Delhi,"Dwarka-Sector 8 - DPCC",DL010,Active,28.6448,77.216721
+Delhi,Delhi,"East Arjun Nagar - CPCB",DL011,Active,28.6448,77.216721
+Delhi,Delhi,"IGI Airport (T3) - IMD",DL012,Active,28.6448,77.216721
+Delhi,Delhi,"IHBAS, Dilshad Garden - CPCB",DL013,Active,28.6448,77.216721
+Delhi,Delhi,"ITO - CPCB",DL014,Active,28.6448,77.216721
+Delhi,Delhi,"Jahangirpuri - DPCC",DL015,Active,28.6448,77.216721
+Delhi,Delhi,"Jawaharlal Nehru Stadium - DPCC",DL016,Active,28.6448,77.216721
+Delhi,Delhi,"Lodhi Road - IMD",DL017,Active,28.6448,77.216721
+Delhi,Delhi,"Major Dhyan Chand National Stadium - DPCC",DL018,Active,28.6448,77.216721
+Delhi,Delhi,"Mandir Marg - DPCC",DL019,Active,28.6448,77.216721
+Delhi,Delhi,"Mundka - DPCC",DL020,Active,28.6448,77.216721
+Delhi,Delhi,"NSIT Dwarka - CPCB",DL021,Active,28.6448,77.216721
+Delhi,Delhi,"Najafgarh - DPCC",DL022,Active,28.6448,77.216721
+Delhi,Delhi,"Narela - DPCC",DL023,Active,28.6448,77.216721
+Delhi,Delhi,"Nehru Nagar - DPCC",DL024,Active,28.6448,77.216721
+Delhi,Delhi,"North Campus, DU - IMD",DL025,Active,28.6448,77.216721
+Delhi,Delhi,"Okhla Phase-2 - DPCC",DL026,Active,28.6448,77.216721
+Delhi,Delhi,"Patparganj - DPCC",DL027,Active,28.6448,77.216721
+Delhi,Delhi,"Punjabi Bagh - DPCC",DL028,Active,28.6448,77.216721
+Delhi,Delhi,"Pusa - DPCC",DL029,Active,28.6448,77.216721
+Delhi,Delhi,"Pusa - IMD",DL030,Active,28.6448,77.216721
+Delhi,Delhi,"R K Puram - DPCC",DL031,Active,28.6448,77.216721
+Delhi,Delhi,"Rohini - DPCC",DL032,Active,28.6448,77.216721
+Delhi,Delhi,"Shadipur - CPCB",DL033,Active,28.6448,77.216721
+Delhi,Delhi,"Sirifort - CPCB",DL034,Active,28.6448,77.216721
+Delhi,Delhi,"Sonia Vihar - DPCC",DL035,Active,28.6448,77.216721
+Delhi,Delhi,"Sri Aurobindo Marg - DPCC",DL036,Active,28.6448,77.216721
+Delhi,Delhi,"Vivek Vihar - DPCC",DL037,Active,28.6448,77.216721
+Delhi,Delhi,"Wazirpur - DPCC",DL038,Active,28.6448,77.216721
+Gujarat,Ahmedabad,"Maninagar - GPCB",GJ001,Active,23.033863,72.585022
+Gujarat,Ankleshwar,"GIDC - GPCB",GJ002,Inactive,,
+Gujarat,Gandhinagar,"Sector-10 - GPCB",GJ003,Inactive,,
+Gujarat,Nandesari,"GIDC - Nandesari Ind. Association",GJ004,Inactive,,
+Gujarat,Vapi,"Phase-1 GIDC - GPCB",GJ005,Inactive,,
+Gujarat,Vatva,"Phase-4 GIDC - GPCB",GJ006,Inactive,,
+Haryana,Ambala,"Patti Mehar - HSPCB",HR001,Active,30.37818,76.776695
+Haryana,Bahadurgarh,"Arya Nagar - HSPCB",HR002,Active,28.68,76.919998
+Haryana,Ballabgarh,"Nathu Colony - HSPCB",HR003,Active,28.341639,77.325348
+Haryana,Bhiwani,"H.B. Colony - HSPCB",HR004,Active,28.79904,76.133514
+Haryana,Dharuhera,"Municipal Corporation Office - HSPCB",HR005,Active,28.12,76.47
+Haryana,Faridabad,"New Industrial Town - HSPCB",HR006,Active,28.408912,77.317789
+Haryana,Faridabad,"Sector 11 - HSPCB",HR007,Active,28.408912,77.317789
+Haryana,Faridabad,"Sector 30 - HSPCB",HR008,Active,28.408912,77.317789
+Haryana,Faridabad,"Sector- 16A - HSPCB",HR009,Active,28.408912,77.317789
+Haryana,Fatehabad,"Huda Sector - HSPCB",HR010,Active,29.511778,75.455215
+Haryana,Gurugram,"NISE Gwal Pahari - IMD",HR011,Active,28.457523,77.026344
+Haryana,Gurugram,"Sector-51 - HSPCB",HR012,Active,28.457523,77.026344
+Haryana,Gurugram,"Teri Gram - HSPCB",HR013,Active,28.457523,77.026344
+Haryana,Gurugram,"Vikas Sadan - HSPCB",HR014,Active,28.457523,77.026344
+Haryana,Hisar,"Urban Estate-II - HSPCB",HR015,Active,29.151861,75.721123
+Haryana,Jind,"Police Lines - HSPCB",HR016,Active,29.316668,76.316666
+Haryana,Kaithal,"Rishi Nagar - HSPCB",HR017,Active,29.785673,76.398454
+Haryana,Karnal,"Sector-12 - HSPCB",HR018,Active,29.685629,76.990547
+Haryana,Kurukshetra,"Sector-7 - HSPCB",HR019,Active,29.969513,76.878281
+Haryana,Mandikhera,"General Hospital - HSPCB",HR020,Active,27.94335,77.01712
+Haryana,Manesar,"Sector-2 IMT - HSPCB",HR021,Active,28.37232,76.9195
+Haryana,Narnaul,"Shastri Nagarl - HSPCB",HR022,Active,28.065796,76.101479
+Haryana,Palwal,"Shyam Nagar - HSPCB",HR023,Active,28.148735,77.332024
+Haryana,Panchkula,"Sector-6 - HSPCB",HR024,Active,30.695202,76.854172
+Haryana,Panipat,"Sector-18 - HSPCB",HR025,Active,29.398928,76.977081
+Haryana,Rohtak,"MD University- HSPCB",HR026,Active,28.895515,76.606613
+Haryana,Sirsa,"F-Block - HSPCB",HR027,Active,29.536535,75.025505
+Haryana,Sonipat,"Murthal - HSPCB",HR028,Active,28.928774,77.091278
+Haryana,Yamuna Nagar,"Gobind Pura - HSPCB",HR029,Active,30.1290485,77.2673901
+Jharkhand,Jorapokhar,"Tata Stadium - JSPCB",JH001,Active,23.539026,85.931808
+Karnataka,Bagalkot,"Vidayagiri - KSPCB",KA001,Inactive,,
+Karnataka,Bengaluru,"BTM Layout - CPCB",KA002,Active,12.971599,77.594566
+Karnataka,Bengaluru,"BWSSB Kadabesanahalli - CPCB",KA003,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Bapuji Nagar - KSPCB",KA004,Active,12.971599,77.594566
+Karnataka,Bengaluru,"City Railway Station - KSPCB",KA005,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Hebbal - KSPCB",KA006,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Hombegowda Nagar - KSPCB",KA007,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Jayanagar 5th Block - KSPCB",KA008,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Peenya - CPCB",KA009,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Sanegurava Halli - KSPCB",KA010,Active,12.971599,77.594566
+Karnataka,Bengaluru,"Silk Board - KSPCB",KA011,Active,12.971599,77.594566
+Karnataka,Chamarajanagar,"Urban - KSPCB",KA012,Inactive,,
+Karnataka,Chikkaballapur,"Chikkaballapur Rural- KSPCB",KA013,Inactive,,
+Karnataka,Chikkamagaluru,"Kalyana Nagara - KSPCB",KA014,Inactive,,
+Karnataka,Hubballi,"Deshpande Nagar - KSPCB",KA015,Inactive,,
+Karnataka,Kalaburagi,"Lal Bahadur Shastri Nagar - KSPCB",KA016,Inactive,,
+Karnataka,Mysuru,"Hebbal 1st Stage - KSPCB",KA017,Inactive,,
+Karnataka,Ramanagara,"Vijay Nagar - KSPCB",KA018,Inactive,,
+Karnataka,Vijayapura,"Ibrahimpur - KSPCB",KA019,Inactive,,
+Karnataka,Yadgir,"Collector Office - KSPCB",KA020,Inactive,,
+Kerala,Eloor,"Udyogamandal - Kerala PCB",KL001,Inactive,,
+Kerala,Ernakulam,"Kacheripady - Kerala PCB",KL002,Inactive,,
+Kerala,Kannur,"Thavakkara - Kerala PCB",KL003,Inactive,,
+Kerala,Kochi,"Vyttila - Kerala PCB",KL004,Inactive,,
+Kerala,Kollam,"Polayathode - Kerala PCB",KL005,Inactive,,
+Kerala,Kozhikode,"Palayam - Kerala PCB",KL006,Inactive,,
+Kerala,Thiruvananthapuram,"Kariavattom - Kerala PCB",KL007,Active,8.524139,76.936638
+Kerala,Thiruvananthapuram,"Plammoodu - Kerala PCB",KL008,Active,8.524139,76.936638
+Madhya Pradesh,Bhopal,"T T Nagar - MPPCB",MP001,Active,23.259933,77.412613
+Madhya Pradesh,Damoh,"Shrivastav Colony - MPPCB",MP002,Inactive,,
+Madhya Pradesh,Dewas,"Bhopal Chauraha - MPPCB",MP003,Inactive,,
+Madhya Pradesh,Gwalior,"City Center - MPPCB",MP004,Inactive,,
+Madhya Pradesh,Gwalior,"Phool Bagh - Mondelez Ind. Food",MP005,Inactive,,
+Madhya Pradesh,Indore,"Chhoti Gwaltoli - MPPCB",MP006,Inactive,,
+Madhya Pradesh,Jabalpur,"Marhatal - MPPCB",MP007,Inactive,,
+Madhya Pradesh,Katni,"Gole Bazar - MPPCB",MP008,Inactive,,
+Madhya Pradesh,Maihar,"Sahilara - KJS Cements",MP009,Inactive,,
+Madhya Pradesh,Mandideep,"Sector-D Industrial Area - MPPCB",MP010,Inactive,,
+Madhya Pradesh,Pithampur,"Sector-2 Industrial Area - MPPCB",MP011,Inactive,,
+Madhya Pradesh,Ratlam,"Shasthri Nagar - IPCA Lab",MP012,Inactive,,
+Madhya Pradesh,Sagar,"Deen Dayal Nagar- MPPCB",MP013,Inactive,,
+Madhya Pradesh,Satna,"Bandhavgar Colony - Birla Cement",MP014,Inactive,,
+Madhya Pradesh,Singrauli,"Vindhyachal STPS - MPPCB",MP015,Inactive,,
+Madhya Pradesh,Ujjain,"Mahakaleshwar Temple - MPPCB",MP016,Inactive,,
+Maharashtra,Aurangabad,"More Chowk Waluj - MPCB",MH001,Inactive,,
+Maharashtra,Chandrapur,"Chandrapur - MPCB",MH002,Inactive,,
+Maharashtra,Chandrapur,"MIDC Khutala - MPCB",MH003,Inactive,,
+Maharashtra,Kalyan,"Khadakpada - MPCB",MH004,Inactive,,
+Maharashtra,Mumbai,"Bandra - MPCB",MH005,Active,19.07609,72.877426
+Maharashtra,Mumbai,"Borivali East - MPCB",MH006,Active,19.07609,72.877426
+Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2) - MPCB",MH007,Active,18.943888,72.835991
+Maharashtra,Mumbai,"Colaba - MPCB",MH008,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Kurla - MPCB",MH009,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Powai - MPCB",MH010,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Sion - MPCB",MH011,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Vasai West - MPCB",MH012,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Vile Parle West - MPCB",MH013,Active,26.115103,72.877426
+Maharashtra,Mumbai,"Worli - MPCB",MH014,Active,26.115103,72.877426
+Maharashtra,Nagpur,"Opp GPO Civil Lines - MPCB",MH015,Inactive,,
+Maharashtra,Nashik,"Gangapur Road - MPCB",MH016,Inactive,,
+Maharashtra,Navi Mumbai,"Airoli - MPCB",MH017,Inactive,,
+Maharashtra,Navi Mumbai,"Mahape - MPCB",MH018,Inactive,,
+Maharashtra,Navi Mumbai,"Nerul - MPCB",MH019,Inactive,,
+Maharashtra,Pune,"Karve Road- MPCB",MH020,Inactive,,
+Maharashtra,Solapur,"Solapur - MPCB",MH021,Inactive,,
+Maharashtra,Thane,"Pimpleshwar Mandi - MPCB",MH022,Inactive,,
+Meghalaya,Shillong,"Lumpyngngad - Meghalaya PCB",ML001,Active,25.575556,91.873056
+Mizoram,Aizawl,"Sikulpuikawn - Mizoram PCB",MZ001,Active,23.727106,92.717636
+Odisha,Brajrajnagar,"GM Office - OSPCB",OD001,Active,21.828594,83.92149
+Odisha,Talcher,"Talcher Coalfields - OSPCB",OD002,Active,20.951542,85.215668
+Punjab,Amritsar,"Golden Temple - PPCB",PB001,Active,31.63661,74.87476
+Punjab,Bathinda,"Hardev Nagar - PPCB",PB002,Inactive,,
+Punjab,Jalandhar,"Civil Line - PPCB",PB003,Inactive,,
+Punjab,Khanna,"Kalal Majra - PPCB",PB004,Inactive,,
+Punjab,Ludhiana,"Punjab Agricultural University - PPCB",PB005,Inactive,,
+Punjab,Gobindgarh,"RIMT University - PPCB",PB006,Inactive,,
+Punjab,Patiala,"Model Town - PPCB",PB007,Inactive,,
+Punjab,Rupnagar,"Ratanpura - Ambuja Cements",PB008,Inactive,,
+Rajasthan,Alwar,"Moti Doongri - RSPCB",RJ001,Inactive,,
+Rajasthan,Ajmer,"Civil Lines - RSPCB",RJ002,Inactive,,
+Rajasthan,Bhiwandi,"RIICO Ind. Area III - RSPCB",RJ003,Inactive,,
+Rajasthan,Jaipur,"Adarsh Nagar - RSPCB",RJ004,Active,26.92207,75.778885
+Rajasthan,Jaipur,"Police Commissionerate - RSPCB",RJ005,Active,26.92207,75.778885
+Rajasthan,Jaipur,"Shastri Nagar - RSPCB",RJ006,Active,26.92207,75.778885
+Rajasthan,Jodhpur,"Collectorate - RSPCB",RJ007,Inactive,,
+Rajasthan,Kota,"Shrinath Puram - RSPCB",RJ008,Inactive,,
+Rajasthan,Pali,"Indira Colony Vistar - RSPCB",RJ009,Inactive,,
+Rajasthan,Udaipur,"Ashok Nagar - RSPCB",RJ010,Inactive,,
+Tamil Nadu,Chennai,"Alandur Bus Depot - CPCB",TN001,Active,13.067439,80.237617
+Tamil Nadu,Chennai,"Manali Village - TNPCB",TN002,Active,13.067439,80.237617
+Tamil Nadu,Chennai,"Manali - CPCB",TN003,Active,13.067439,80.237617
+Tamil Nadu,Chennai,"Velachery Res. Area - CPCB",TN004,Active,13.067439,80.237617
+Tamil Nadu,Coimbatore,"SIDCO Kurichi - TNPCB",TN005,Active,11.004556,76.961632
+Telangana,Hyderabad,"Bollaram Industrial Area - TSPCB",TG001,Active,17.38714,78.491684
+Telangana,Hyderabad,"Central University - TSPCB",TG002,Active,17.38714,78.491684
+Telangana,Hyderabad,"ICRISAT Patancheru - TSPCB",TG003,Active,17.38714,78.491684
+Telangana,Hyderabad,"IDA Pashamylaram - TSPCB",TG004,Active,17.38714,78.491684
+Telangana,Hyderabad,"Sanathnagar - TSPCB",TG005,Active,17.38714,78.491684
+Telangana,Hyderabad,"Zoo Park - TSPCB",TG006,Active,17.38714,78.491684
+Uttar Pradesh,Agra,"Sanjay Palace - UPPCB",UP001,Inactive,,
+Uttar Pradesh,Baghpat,"New Collectorate - UPPCB",UP002,Inactive,,
+Uttar Pradesh,Bulandshahr,"Yamunapuram - UPPCB",UP003,Inactive,,
+Uttar Pradesh,Ghaziabad,"Indirapuram - UPPCB",UP004,Inactive,,
+Uttar Pradesh,Ghaziabad,"Loni - UPPCB",UP005,Inactive,,
+Uttar Pradesh,Ghaziabad,"Sanjay Nagar - UPPCB",UP006,Inactive,,
+Uttar Pradesh,Ghaziabad,"Vasundhara - UPPCB",UP007,Inactive,,
+Uttar Pradesh,Greater Noida,"Knowledge Park - III - UPPCB",UP008,Inactive,,
+Uttar Pradesh,Greater Noida,"Knowledge Park - V - UPPCB",UP009,Inactive,,
+Uttar Pradesh,Hapur,"Anand Vihar - UPPCB",UP010,Inactive,,
+Uttar Pradesh,Kanpur,"Nehru Nagar - UPPCB",UP011,Inactive,,
+Uttar Pradesh,Lucknow,"Central School - CPCB",UP012,Active,26.85,80.949997
+Uttar Pradesh,Lucknow,"Gomti Nagar - UPPCB",UP013,Active,26.85,80.949997
+Uttar Pradesh,Lucknow,"Lalbagh - CPCB",UP014,Active,26.85,80.949997
+Uttar Pradesh,Lucknow,"Nishant Ganj - UPPCB",UP015,Inactive,,
+Uttar Pradesh,Lucknow,"Talkatora District Industries Center - CPCB",UP016,Active,26.85,80.949997
+Uttar Pradesh,Meerut,"Ganga Nagar - UPPCB",UP017,Inactive,,
+Uttar Pradesh,Meerut,"Jai Bhim Nagar - UPPCB",UP018,Inactive,,
+Uttar Pradesh,Meerut,"Pallavpuram Phase 2 - UPPCB",UP019,Inactive,,
+Uttar Pradesh,Moradabad,"Lajpat Nagar - UPPCB",UP020,Inactive,,
+Uttar Pradesh,Muzzaffarnagar,"New Mandi - UPPCB",UP021,Inactive,,
+Uttar Pradesh,Noida,"Sector - 125 - UPPCB",UP022,Inactive,,
+Uttar Pradesh,Noida,"Sector - 62 - IMD",UP023,Inactive,,
+Uttar Pradesh,Noida,"Sector-1 - UPPCB",UP024,Inactive,,
+Uttar Pradesh,Noida,"Sector-116 - UPPCB",UP025,Inactive,,
+Uttar Pradesh,Varanasi,"Ardhali Bazar - UPPCB",UP026,Inactive,,
+West Bengal,Asansol,"Asansol Court Area - WBPCB",WB001,Inactive,,
+West Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium - WBPCB",WB002,Inactive,,
+West Bengal,Haldia,"Haldia - WBPCB",WB003,Inactive,,
+West Bengal,Howrah,"Belur Math - WBPCB",WB004,Inactive,,
+West Bengal,Howrah,"Ghusuri - WBPCB",WB005,Inactive,,
+West Bengal,Howrah,"Padmapukur - WBPCB",WB006,Inactive,,
+West Bengal,Kolkata,"Ballygunge- WBPCB",WB007,Active,22.572645,88.363892
+West Bengal,Kolkata,"Bidhannagar- WBPCB",WB008,Active,22.572645,88.363892
+West Bengal,Kolkata,"Fort William- WBPCB",WB009,Active,22.572645,88.363892
+West Bengal,Kolkata,"Jadavpur- WBPCB",WB010,Active,22.572645,88.363892
+West Bengal,Kolkata,"Rabindra Bharati University- WBPCB",WB011,Active,22.572645,88.363892
+West Bengal,Kolkata,"Rabindra Sarobar- WBPCB",WB012,Active,22.572645,88.363892
+West Bengal,Kolkata,"Victoria- WBPCB",WB013,Active,22.572645,88.363892
+West Bengal,Siliguri,"Ward-32 Bapupara - WBPCB",WB014,Inactive,,

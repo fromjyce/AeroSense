@@ -1,0 +1,34 @@
+.embla {
+  overflow: hidden;
+  width: 100%;
+}
+
+.embla__container {
+  display: flex;
+}
+
+.embla__slide {
+  flex: 0 0 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.embla__buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.iconButton {
+  padding: 8px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #073414;
+}
+
+.iconButton:hover {
+  color: #2D5F3B;
+}
