@@ -5,7 +5,7 @@ The **AeroSense** web application is an advanced tool designed for real-time pre
 ## **Key Features**
 
 ### **AQI Prediction**
-![results](https://github.com/user-attachments/assets/9199b158-7962-456d-9eb7-a0b4afed1f0b)
+![image](https://github.com/user-attachments/assets/64dca3f6-63df-4c3d-b363-bd703c57b9ac)
 
 
 AeroSense allows users to predict air quality with precision across any city or station in India. The application leverages sophisticated **time-series models** to forecast pollutant concentrations, which are then processed through deep learning networks to compute AQI based on **CPCB AQI calculation standards**. Users can:
