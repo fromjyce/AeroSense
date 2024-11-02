@@ -30,7 +30,7 @@ Analyze AQI trends with predictions covering **four days prior** and **four days
 
 ### **AR AQI Simulator**
 
-![simulator](https://github.com/user-attachments/assets/4cd7a95e-ded2-482a-b137-b68622efcef4)
+![image](https://github.com/user-attachments/assets/465637f3-9aee-4fff-be92-cd1ef746737f)
 
 
 AeroSense allows users to simulate future AQI outcomes by adjusting various environmental parameters. Inputs such as **wind speed, sunlight, temperature, precipitation, vehicular traffic, electric vehicle usage, and industrial activity** can be dynamically modified to visualize their potential impact on air quality, offering a clearer understanding of the factors influencing pollution levels.
@@ -42,7 +42,7 @@ Weather conditions are seamlessly integrated into the dashboard, providing users
 - **5-day weather forecast**, helping users plan ahead based on both weather and air quality predictions.
 
 ### **AI-Driven Insights and Recommendations**
-![image_results](https://github.com/user-attachments/assets/b0610f1c-d78e-4636-b410-c603acad0e1a)
+![image](https://github.com/user-attachments/assets/458a9217-0db4-4873-87ce-73dd60fe488f)
 
 The AI tool within AeroSense leverages **Large Language Models (LLMs)** to provide tailored insights and actionable recommendations based on AQI forecasts. Users can receive advice on:
 
